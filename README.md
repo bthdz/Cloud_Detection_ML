@@ -60,5 +60,3 @@ python src/train.py
 ```bash
 python src/predict.py
 ```
-
-_Kết quả trả về là một ảnh `cloud_mask_result.tif` tại thư mục `outputs/`, giữ nguyên hệ tọa độ gốc (CRS) để dễ dàng overlay trên phần mềm QGIS hoặc ArcGIS._
